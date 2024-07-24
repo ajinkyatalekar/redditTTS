@@ -1,5 +1,7 @@
 # RedditTTS
 
+## This project has been discontinued. Visit [autovid](https://github.com/ajinkyatalekar/autovid) to get newer versions.
+
 ## What It Does
 This Python app scrapes popular Reddit posts and comments and creates ready-to-upload entertaining videos with background music, text-to-speech, 
 and screenshots of the post and top comments. :sparkles:  
